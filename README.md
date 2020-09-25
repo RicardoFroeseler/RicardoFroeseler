@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ricardo Froeseler 🇧🇷</h1>
+<h1 align="center">Hi 👋, I'm Ricardo Froeseler</h1>
 <h3 align="center">A self-taught programmer in training designer by passion who loves games and drawings.😜</h3>
 
-<!--
-**RicardoFroeseler/RicardoFroeseler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 💻These are my social networks
+💻These are my social networks
 
 <a href="https://twitter.com/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
