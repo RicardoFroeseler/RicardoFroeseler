@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on all possible projects to improve my portfolio
 - 🤔 I’m looking for help with: Flutter
-- 📫 How to reach me: You can find me on my social networks below
+- 📫 How to reach me: You can find me on my social networks
 - 😄 Pronouns: Ricardinho
 - ⚡ Fun fact: I like FPS games, passionate about cartoons like: Pokemon, Adventure time, Sen to Chihiro no Kamikakushi yes these are my favorites, I love design mainly UI and UX I think it's excellent that this type of content has been growing every day more in concept of developers and degins
 - 🇧🇷 Born in Minas Gerais, Belo Horizonte, Brazil
