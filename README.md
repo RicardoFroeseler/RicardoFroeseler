@@ -6,7 +6,9 @@
 > bom em alguma coisa"
 >
 > Adventure time.
+
 <br />
+
 # 💻These are my social networks
 
 <a href="https://www.instagram.com/ricardo_froeseler/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RicardoFroeseler" height="22" width="22" /></a>
