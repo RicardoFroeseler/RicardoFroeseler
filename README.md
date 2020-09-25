@@ -26,6 +26,11 @@
 - 📫 How to reach me: You can find me on my social networks below
 - 😄 Pronouns: Ricardinho
 - ⚡ Fun fact: I like FPS games, passionate about cartoons like: Pokemon, Adventure time, Sen to Chihiro no Kamikakushi yes these are my favorites, I love design mainly UI and UX I think it's excellent that this type of content has been growing every day more in concept of developers and degins
+- 🇧🇷 Born in Minas Gerais, Belo Horizonte, Brazil
+
+### here I have a little bit about me
+🍿Criador de conteúdo no Youtube
+🍿Criador de conteúdo no instagram
 
 
 # Languages and tools:
