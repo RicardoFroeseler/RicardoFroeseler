@@ -26,7 +26,7 @@
 - 🤔 I’m looking for help with: Flutter
 - 📫 How to reach me: You can find me on my social networks
 - 😄 Pronouns: Ricardinho
-- ⚡ Fun fact: I like FPS games, passionate about cartoons like: Pokemon, Adventure time, Sen to Chihiro no Kamikakushi yes these are my favorites, I love design mainly UI and UX I think it's excellent that this type of content has been growing every day more in concept of developers and degins
+- ⚡ Curiosity: I like FPS games, I'm passionate about drawings like: Pokémon, Adventure time, Sen for Chihiro no Kamikakushi yes, these are my favorites, I love design, especially UI and UX. I think it is excellent that this type of content has grown and stood out even more in the concept of developers and degins, I believe that the best thing in life is to travel and discover new cultures so I am passionate about technology because I can work from anywhere in the world and that is freedom.
 - 🇧🇷 Born in Minas Gerais, Belo Horizonte, Brazil
 
 ### you can see my content at
