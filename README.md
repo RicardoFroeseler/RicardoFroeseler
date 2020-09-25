@@ -2,11 +2,18 @@
 <h3 align="center">A self-taught programmer in training designer by passion who loves games and drawings.😜</h3>
 
 
-💻These are my social networks
+- 💻These are my social networks
 
-<a href="https://twitter.com/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
-<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
+<a href="https://www.instagram.com/ricardo_froeseler/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RicardoFroeseler" height="22" width="22" /></a> - 
+
+<a href="https://www.linkedin.com/in/ricardo-froeseler-3a2a48167/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ricardo Froeseler" height="22" width="22" /></a> - 
+
+<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a> - 
+
+<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a> - 
+
+<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a> - 
+
 <br />
 ![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
