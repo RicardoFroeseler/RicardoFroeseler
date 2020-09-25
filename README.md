@@ -47,4 +47,5 @@ Dillinger uses a number of open source projects to work properly:
 * [jQuery] - duh
 `
 
-**Free Software, Hell Yeah!**
+
+<h3 align="center">A self-taught programmer in training designer by passion who loves games and drawings.😜</h3>
