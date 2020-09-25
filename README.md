@@ -6,13 +6,13 @@
 
 <a href="https://www.instagram.com/ricardo_froeseler/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RicardoFroeseler" height="22" width="22" /></a> - 
 
-<a href="https://www.linkedin.com/in/ricardo-froeseler-3a2a48167/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ricardo Froeseler" height="22" width="22" /></a> - 
+<a href="https://www.linkedin.com/in/ricardo-froeseler-3a2a48167/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ricardo Froeseler" height="22" width="22" /></a> 
 
-<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a> - 
+<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
-<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a> - 
+<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
-<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a> - 
+<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
 <br />
 ![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
