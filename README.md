@@ -11,8 +11,6 @@
 <br />
 
 # 💻These are my social networks
-
-[![Instagram](https://img.shields.io/badge/RicardoFroeseler?label=&logo=Instagram&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://www.instagram.com/ricardo_froeseler/)
 https://img.shields.io/badge/Instagram-RicardoFroeseler-ff69b4
 ### here I have a little bit about me
 
