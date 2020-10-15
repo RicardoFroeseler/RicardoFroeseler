@@ -13,7 +13,7 @@
 # 💻These are my social networks
 
 <a href="https://www.instagram.com/ricardo_froeseler/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Instagram-@RicardoFroeseler-%e4435f?style=flat&logo=Instagram">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Instagram-@RicardoFroeseler-%2286795?style=flat&logo=Instagram">
     </a>
 
 ### here I have a little bit about me
