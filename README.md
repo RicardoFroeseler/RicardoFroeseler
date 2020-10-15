@@ -12,7 +12,7 @@
 
 # 💻These are my social networks
 
-    <a href="https://www.instagram.com/ricardo_froeseler/">
+<a href="https://www.instagram.com/ricardo_froeseler/">
     <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
     </a>
 
