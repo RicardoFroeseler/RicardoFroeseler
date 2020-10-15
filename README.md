@@ -13,6 +13,7 @@
 # 💻These are my social networks
 
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
 
 ### here I have a little bit about me
 
