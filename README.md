@@ -11,7 +11,10 @@
 <br />
 
 # 💻These are my social networks
-https://img.shields.io/static/v1?label=<Instagram>&message=<RicardoFroeseler>&color=<#E4405F>&style=<STYLE>&logo=<Instagram>
+
+    <a href="https://www.instagram.com/ricardo_froeseler/">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
+    </a>
 
 ### here I have a little bit about me
 
