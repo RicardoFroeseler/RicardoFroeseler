@@ -12,9 +12,7 @@
 
 # 💻These are my social networks
 
-<a href="https://www.instagram.com/ricardo_froeseler/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Instagram-@RicardoFroeseler-%2286795?style=flat&logo=Instagram">
-    </a>
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
 
 ### here I have a little bit about me
 
