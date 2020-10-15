@@ -12,9 +12,7 @@
 
 # 💻These are my social networks
 
-<a href="https://www.instagram.com/ricardo_froeseler/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RicardoFroeseler" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/ricardo-froeseler-3a2a48167/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ricardo Froeseler" height="22" width="22" /></a> 
-<a href="https://www.youtube.com/channel/UC3Bl-YpXGEczV2Wxd3lGS5w?view_as=subscriber" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 
 ### here I have a little bit about me
 
