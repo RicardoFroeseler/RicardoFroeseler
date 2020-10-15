@@ -11,7 +11,7 @@
 <br />
 
 # 💻These are my social networks
-[![Instagram](https://img.shields.io/badge/Instagram-RicardoFroeseler-ff69b4?label=&logo=Instagram&logoColor=ffffff&color=E51212&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+[![Instagram](https://img.shields.io/badge/Instagram-RicardoFroeseler-ff69b4?label=&logo=Instagram&logoColor=ffffff&color=FFE599&labelColor=FF00FF)](https://discord.gg/vpEv3HJ)
 <br />
 [![YouTube](https://img.shields.io/badge/Instagram-RicardoFroeseler-ff69b4?label=&logo=YouTube&logoColor=ffffff&color=E51212&labelColor=BD3636)](https://discord.gg/vpEv3HJ)
 
