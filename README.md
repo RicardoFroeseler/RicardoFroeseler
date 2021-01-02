@@ -59,3 +59,8 @@ Here you will find some technologies that I work or that I already worked
 <br />
 
 <h3 align="center">A self-taught programmer in training designer by passion who loves games and drawings.😜</h3>
+<div align="center">
+  
+
+[Inglês](./README.md)  |  [Portugues 🇧🇷](./README-br.md) 
+</div>
