@@ -1,5 +1,4 @@
-<div style="background-color: #343541; background-image: url('https://wallpapercave.com/wp/wp4190124.jpg'); opacity: 0.5; display: flex; justify-content: center; align-items: center;">
-</div>
+<div style="background-image: url('https://wallpapercave.com/wp/wp4190124.jpg'); opacity: 0.5; display: flex; justify-content: center; align-items: center;"></div>
 
 
 <h1 align="center">Hi 👋, I'm Ricardo Froeseler</h1>
