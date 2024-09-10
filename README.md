@@ -1,62 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ricardo Froeseler</h1>
+<h2 align="center">Hi 👋, I'm Ricardo Froeseler</h2>
 <h3 align="center">A self-taught programmer in training designer by passion who loves games and drawings.😜</h3>
 
+###
 
-> "Being bad at something is the
-> first step to become
-> good at something "
->
-> Adventure time.
-
-<br />
-
-# 💻These are my social networks
-[![Instagram](https://img.shields.io/badge/Instagram-RicardoFroeseler-ff69b4?label=&logo=Instagram&logoColor=ffffff&color=FFE599&labelColor=FF00FF)](https://discord.gg/vpEv3HJ)
-<br />
-[![YouTube](https://img.shields.io/badge/Instagram-RicardoFroeseler-ff69b4?label=&logo=YouTube&logoColor=ffffff&color=E51212&labelColor=BD3636)](https://discord.gg/vpEv3HJ)
-
-### here I have a little bit about me
-
-- 🔭 I’m currently working on Materprint assistencia tecnica LTDA
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on all possible projects to improve my portfolio
-- 🤔 I’m looking for help with: Flutter
-- 📫 How to reach me: You can find me on my social networks
-- 😄 Pronouns: Ricardinho
-- ⚡ Curiosity: I like FPS games, I'm passionate about drawings like: Pokémon, Adventure time, Sen for Chihiro no Kamikakushi yes, these are my favorites, I love design, especially UI and UX. I think it is excellent that this type of content has grown and stood out even more in the concept of developers and degins, I believe that the best thing in life is to travel and discover new cultures so I am passionate about technology because I can work from anywhere in the world and that is freedom.
-- 🇧🇷 Born in Minas Gerais, Belo Horizonte, Brazil
-
-### you can see my content at
-- 🍿Content creator on <a href="https://www.youtube.com/channel/UC3Bl-YpXGEczV2Wxd3lGS5w?view_as=subscriber">Youtube</a>
-- 🍿Content creator on <a href="https://www.instagram.com/ricardo_froeseler/">instagram</a>
-- 🍿My personal website 
-
-
-
-# Languages and tools:
-### The technologies I master and work with today
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/> <img 
-<br />
-
-  
-  
-### Tech
-
-Here you will find some technologies that I work or that I already worked
-
-* [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
-* [jQuery] - duh
-`
-<br />
-<br />
-<br />
-
-[Inglês](./README.md)  |  [Portugues 🇧🇷](./README-br.md) 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoFroeseler&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoFroeseler&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RicardoFroeseler&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoFroeseler&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
+</div>
+
+###
